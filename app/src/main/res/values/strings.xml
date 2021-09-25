@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="homescreen_text">Fill in the boxes below</string>
+    <string name="homescreen_text2">and click start</string>
+    <string name="homescreen_rows">Number of Rows</string>
+    <string name="homescreen_columns">Number of Columns</string>
+    <string name="homescreen_mines">Number of Mines</string>
+    <string name="homescreen_start">Start</string>
+    <string name="err">A field was not entered correctly</string>
+    <string name="endGame">Game over, you lost</string>
+
+</resources>
